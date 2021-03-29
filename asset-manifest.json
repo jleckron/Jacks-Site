@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jacks-Site/static/css/main.bab0b925.chunk.css",
+    "main.js": "/Jacks-Site/static/js/main.3e0492fc.chunk.js",
+    "main.js.map": "/Jacks-Site/static/js/main.3e0492fc.chunk.js.map",
+    "runtime-main.js": "/Jacks-Site/static/js/runtime-main.66890b73.js",
+    "runtime-main.js.map": "/Jacks-Site/static/js/runtime-main.66890b73.js.map",
+    "static/js/2.34d21927.chunk.js": "/Jacks-Site/static/js/2.34d21927.chunk.js",
+    "static/js/2.34d21927.chunk.js.map": "/Jacks-Site/static/js/2.34d21927.chunk.js.map",
+    "static/js/3.ca42a48a.chunk.js": "/Jacks-Site/static/js/3.ca42a48a.chunk.js",
+    "static/js/3.ca42a48a.chunk.js.map": "/Jacks-Site/static/js/3.ca42a48a.chunk.js.map",
+    "index.html": "/Jacks-Site/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/Jacks-Site/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.34d21927.chunk.js.LICENSE.txt": "/Jacks-Site/static/js/2.34d21927.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66890b73.js",
+    "static/js/2.34d21927.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.3e0492fc.chunk.js"
+  ]
+}

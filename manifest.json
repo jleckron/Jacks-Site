@@ -1,0 +1,15 @@
+{
+  "short_name": "Jack's Site",
+  "name": "Jack's Personal Website",
+  "icons": [
+    {
+      "src": "header.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
