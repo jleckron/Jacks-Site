@@ -204,7 +204,7 @@ ul#nav li a:hover{ color: var(--main-highlight-color) }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #b4b4b4;
 }
 #about .profile-pic {
    position: relative;
