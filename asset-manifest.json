@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Jacks-Site/static/css/main.17848bcd.css",
-    "main.js": "/Jacks-Site/static/js/main.1db1da44.js",
+    "main.js": "/Jacks-Site/static/js/main.80719568.js",
     "static/js/787.f705b7ee.chunk.js": "/Jacks-Site/static/js/787.f705b7ee.chunk.js",
     "static/media/fa-solid-900.ttf": "/Jacks-Site/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/fa-brands-400.ttf": "/Jacks-Site/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.woff2": "/Jacks-Site/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
     "index.html": "/Jacks-Site/index.html",
     "main.17848bcd.css.map": "/Jacks-Site/static/css/main.17848bcd.css.map",
-    "main.1db1da44.js.map": "/Jacks-Site/static/js/main.1db1da44.js.map",
+    "main.80719568.js.map": "/Jacks-Site/static/js/main.80719568.js.map",
     "787.f705b7ee.chunk.js.map": "/Jacks-Site/static/js/787.f705b7ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17848bcd.css",
-    "static/js/main.1db1da44.js"
+    "static/js/main.80719568.js"
   ]
 }
