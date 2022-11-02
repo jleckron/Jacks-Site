@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/Jacks-Site/static/css/main.bab0b925.chunk.css",
-    "main.js": "/Jacks-Site/static/js/main.99ef26d4.chunk.js",
-    "main.js.map": "/Jacks-Site/static/js/main.99ef26d4.chunk.js.map",
-    "runtime-main.js": "/Jacks-Site/static/js/runtime-main.df7a348e.js",
-    "runtime-main.js.map": "/Jacks-Site/static/js/runtime-main.df7a348e.js.map",
-    "static/js/2.cd7fde8d.chunk.js": "/Jacks-Site/static/js/2.cd7fde8d.chunk.js",
-    "static/js/2.cd7fde8d.chunk.js.map": "/Jacks-Site/static/js/2.cd7fde8d.chunk.js.map",
-    "static/js/3.df26a6f9.chunk.js": "/Jacks-Site/static/js/3.df26a6f9.chunk.js",
-    "static/js/3.df26a6f9.chunk.js.map": "/Jacks-Site/static/js/3.df26a6f9.chunk.js.map",
+    "main.css": "/Jacks-Site/static/css/main.17848bcd.css",
+    "main.js": "/Jacks-Site/static/js/main.1db1da44.js",
+    "static/js/787.f705b7ee.chunk.js": "/Jacks-Site/static/js/787.f705b7ee.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Jacks-Site/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/Jacks-Site/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/Jacks-Site/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/sluglogo.jpeg": "/Jacks-Site/static/media/sluglogo.91fbbd87bb0575a3b525.jpeg",
+    "static/media/fa-brands-400.woff2": "/Jacks-Site/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/Jacks-Site/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/Jacks-Site/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Jacks-Site/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Jacks-Site/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
     "index.html": "/Jacks-Site/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/Jacks-Site/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.cd7fde8d.chunk.js.LICENSE.txt": "/Jacks-Site/static/js/2.cd7fde8d.chunk.js.LICENSE.txt"
+    "main.17848bcd.css.map": "/Jacks-Site/static/css/main.17848bcd.css.map",
+    "main.1db1da44.js.map": "/Jacks-Site/static/js/main.1db1da44.js.map",
+    "787.f705b7ee.chunk.js.map": "/Jacks-Site/static/js/787.f705b7ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.df7a348e.js",
-    "static/js/2.cd7fde8d.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.99ef26d4.chunk.js"
+    "static/css/main.17848bcd.css",
+    "static/js/main.1db1da44.js"
   ]
 }
